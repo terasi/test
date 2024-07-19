@@ -1,0 +1,155 @@
+.logo img{
+    width: 15%;
+}
+
+
+
+header{
+    width: 99%;
+    height: 40px;
+    margin-left: 10px;
+    background-color: black;
+}
+
+header ul{
+    float: left;
+    line-height: 10px;
+
+}
+
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 50px;
+    color: white;
+    font-size: 18px;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+main{
+    clear: both;
+    height: 83%;
+}
+
+.main-contents{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height: 145%;
+    margin-bottom: 1px;
+    border-radius: 0px 5px 5px 0px;
+    box-sizing: border-box;
+}
+.left h1{
+    border-left: 6px solid #001a0e;
+    border-bottom: 2px solid #001a0e;
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-right: 3px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding-left: 10px;
+
+}
+
+form{
+    margin: 0 auto;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 97%;
+}
+
+form h2{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    border-left: 4px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    width: 500px;
+    font-size: 20px;
+ }
+
+.title1{
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 95%;
+}
+
+.title1 h3{
+    border-bottom: 1px dotted lightgray;
+}
+
+.title1 .handlename{
+    font-size: 12px;
+}
+
+.text, textarea, .dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgrey;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+form div{
+    padding: 15px;
+}
+
+
+.right{
+    float: left;
+    width: 25%;
+    height: 145%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+    border-radius: 5px 0px 0px 5px;
+    box-sizing: border-box;
+}
+
+.right h3{
+    border-bottom: 1px dotted lightgray;
+}
+
+.right li{
+    list-style: none;
+}
+
+footer{
+    clear: left;
+    width: 99%;
+    height: 40px;
+    margin-left: 10px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    line-height: 40px;
+}

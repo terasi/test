@@ -3,7 +3,7 @@
 
     <head>
         <meta charset="UTF-8">
-        <title>お問合わせフォームを作る</title>
+        <title>お問合わせフォームを作る 追加課題用追記</title>
         <link rel="stylesheet" href="style.css" type="text/css">
     </head>
 
